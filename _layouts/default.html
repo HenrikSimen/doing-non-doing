@@ -21,7 +21,18 @@
 </head>
 <body>
   <main>
-    {{content}}
+    <header>
+      <a href="index.html"><h1>Doing Non Doing</h1></a> 
+    </header>
+    <section>
+      <article>
+
+        {{content}}
+        
+        <a class="all-posts" href="{{site.baseurl}}/archive.html">See all posts &raquo;</a>
+      </article>
+    </section>
+
   </main>
 
     <hr>
@@ -34,13 +45,8 @@
     </footer>
     <hr>
     <footer>
-      <nav>
-        <ul>
-          <li><a href="{{site.baseurl}}/uncopyright.html">Uncopyright</a> ::</li>
-          <li><a href="{{site.baseurl}}/now.html">Now</a></li>
-        </ul>
-      </nav>
-      </footer>
+      {% include nav.html %}  
+    </footer>
     <script src="assets/js/app.js"></script>
   </body>
   </html>
