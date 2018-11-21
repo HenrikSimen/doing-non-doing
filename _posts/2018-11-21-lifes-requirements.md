@@ -28,5 +28,5 @@ The fewer requirements we have, the less of a burden these requirements become. 
 This isn’t a prescription for how to live your life, but just something to consider.
 
 <div class="attribution">
-  <p>This post was generously donated to the public by [Leo Babauta](http://www.google.com)</p>
+  <p>This post was generously donated to the public by <a href="{{page.source}}" target="_blank">Leo Babauta</a></p>
 </div> <!-- .attribution -->

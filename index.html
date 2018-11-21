@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:1 %}
   <h2>{{post.title}}</h2>
   {{post.content}}
 {% endfor %}
 
-       
+<a class="all-posts" href="{{site.baseurl}}/archive.html">See all posts &raquo;</a>
