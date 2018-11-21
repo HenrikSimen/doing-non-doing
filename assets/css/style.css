@@ -1,0 +1,132 @@
+/* font-family: 'Asul', sans-serif; */
+/* font-family: 'Chivo', sans-serif; */
+
+/* CSS RESET */
+
+html {
+  box-sizing: border-box;
+  font-size: 19px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+ 
+/* END RESET */
+
+body {
+  margin: 50px 0;
+}
+
+a {
+  color: black;
+  border-bottom: 3px solid red;
+  padding-bottom: .25em;
+  text-decoration: none;
+  font-family: 'Asul', sans-serif;
+  font-weight: 700;
+}
+
+a:hover {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23453886' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+  background-position: bottom;
+  background-repeat: repeat-x;
+  background-size: 20%;
+  border-bottom: 0;
+  padding-bottom: .3em;
+  text-decoration: none;
+}
+
+main, footer {
+  width: 85%;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+article {
+  margin-bottom: 110px;
+}
+
+header {
+  margin-bottom: 50px;
+}
+
+/* Mobile Styles */
+
+h1, h2 {
+  font-family: 'Asul', sans-serif;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 2.5em;
+  margin-bottom: 50px;
+}
+
+p {
+  font-family: 'Chivo', sans-serif;
+  font-size: 1.2em;
+  font-weight: 400;
+  margin: 35px 0;
+  line-height: 1.75em;
+}
+
+p.intro {
+  font-size: 1.2em;
+  line-height: 1.8em;
+}
+
+span.bolder {
+  font-weight: 700;
+}
+
+.attribution {
+  border: solid 3px black;
+  margin-bottom: 55px;
+}
+
+.attribution p {
+  text-align: center;
+  font-size: 1.1em;
+}
+
+a.all-posts {
+  font-size: 2em;
+  font-family: 'Asul', sans-serif;
+  font-weight: 700;
+  margin-bottom:100px;
+}
+
+hr {
+  border: none;
+  height: 1.5px;
+  color: black; /* old IE */
+  background-color: black; /* Modern Browsers */
+}
+
+footer {
+  padding: 55px 0;
+}
+
+ul li {
+  display: inline;
+}

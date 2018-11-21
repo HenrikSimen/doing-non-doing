@@ -1,0 +1,86 @@
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+  main, footer {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  h2 {
+    font-size: 2.5em;
+    margin-bottom: 50px;
+  }
+  
+  p {
+    font-family: 'Chivo', sans-serif;
+    font-size: 1.188em;
+    font-weight: 400;
+    margin: 35px 0;
+    line-height: 1.75em;
+  }
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { }
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  main, footer {
+    width: 65%;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  
+  h2 {
+    font-size: 3.5em;
+    margin-bottom: 50px;
+  }
+  
+  p {
+    font-family: 'Chivo', sans-serif;
+    font-size: 1.188em;
+    font-weight: 400;
+    margin: 35px 0;
+    line-height: 1.75em;
+  }
+  
+  p.intro {
+    font-size: 1.4em;
+    line-height: 1.8em;
+  }
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+  main, footer {
+    width: 50%;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  
+  h2 {
+    font-size: 3.5em;
+    margin-bottom: 50px;
+  }
+  
+  p {
+    font-family: 'Chivo', sans-serif;
+    font-size: 1.188em;
+    font-weight: 400;
+    margin: 35px 0;
+    line-height: 1.75em;
+  }
+  
+  p.intro {
+    font-size: 1.4em;
+    line-height: 1.8em;
+  }
+ }

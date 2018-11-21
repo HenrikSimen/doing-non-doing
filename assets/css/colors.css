@@ -1,0 +1,23 @@
+/* CSS for Custom Colors */
+
+body {
+  background-color: #30615D;
+}
+
+main {
+
+}
+
+article h2, article p, article a, footer p, footer ul, footer a {
+  color: #77CAEB;
+}
+
+.attribution {
+  border-color: #77CAEB;
+}
+
+hr {
+  color:#77CAEB; /* old IE */
+  background-color: #77CAEB; /* Modern Browsers */
+}
+
