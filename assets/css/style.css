@@ -35,21 +35,13 @@ body {
 
 a {
   color: black;
-  border-bottom: 3px solid red;
   padding-bottom: .25em;
-  text-decoration: none;
   font-family: 'Asul', sans-serif;
   font-weight: 700;
 }
 
 a:hover {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23453886' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
-  background-position: bottom;
-  background-repeat: repeat-x;
-  background-size: 20%;
-  border-bottom: 0;
-  padding-bottom: .3em;
-  text-decoration: none;
+ 
 }
 
 main, footer {
@@ -118,7 +110,7 @@ a.all-posts {
 
 hr {
   border: none;
-  height: 1.5px;
+  height: 2px;
   color: black; /* old IE */
   background-color: black; /* Modern Browsers */
 }
@@ -129,4 +121,41 @@ footer {
 
 ul li {
   display: inline;
+}
+
+/* ARCHIVE PAGE */
+
+#archive-page h2, #archive-page footer p, #archive-page a {
+  font-family: 'Anonymous Pro', monospace;
+}
+
+#archive-page header a {
+  color: black;
+}
+
+#archive-page main ul {
+  margin-bottom: 50px;
+}
+
+#archive-page main ul a {
+  font-size: 1.5em;
+  font-weight: 400;
+  transition: all 0.2s;
+}
+#archive-page main ul a:hover {
+  padding-left: 5px;
+}
+
+/* ARCHIVE PAGE COLORS */
+#archive-page {
+  background-color: white;
+}
+
+#archive-page h2, #archive-page footer p,#archive-page a , #archive-page footer a, #archive-page footer ul{
+  color:#1A1EE0;
+}
+
+#archive-page hr {
+  color:#1A1EE0; /* old IE */
+  background-color: #1A1EE0; /* Modern Browsers */
 }

@@ -1,7 +1,9 @@
 /* CSS for Custom Colors */
 
+
+/* SET DEFAULT COLORS HERE */
 body {
-  background-color: #30615D;
+  background-color: #436865;
 }
 
 main {
@@ -9,15 +11,16 @@ main {
 }
 
 article h2, article p, article a, footer p, footer ul, footer a {
-  color: #77CAEB;
+  color: #D8E1E2;
 }
 
 .attribution {
-  border-color: #77CAEB;
+  border-color: #D8E1E2;
 }
 
 hr {
-  color:#77CAEB; /* old IE */
-  background-color: #77CAEB; /* Modern Browsers */
+  color:#D8E1E2; /* old IE */
+  background-color: #D8E1E2; /* Modern Browsers */
 }
+
 
