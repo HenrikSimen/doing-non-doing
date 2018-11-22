@@ -8,7 +8,7 @@ layout: archive-layout
 <h2>All Posts</h2>
 {% for post in site.posts %}
 <ul>
-  <li><a href="">{{post.title}}</a></li>
+  <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
 </ul>
   
 {% endfor %}
