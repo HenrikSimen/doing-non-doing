@@ -35,9 +35,11 @@ a {
   padding-bottom: .25em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
+  transition: color 0.3s;
 }
 
 a:hover {
+  color: white;
 }
 
 main, footer {
