@@ -30,20 +30,21 @@ p.intro {
 }
 
 article a {
-  color: white;
+  color: #fbae39;
 }
 
 footer a {
-  color: white;
+  color: #fbae39;
 }
 
 .attribution {
-  background-color: #192b64;
+  border: 1px solid #0239a9;
+  background-color: #062057;
 }
 
 hr {
-  color:#8ec7ff; /* old IE */
-  background-color: #8ec7ff; /* Modern Browsers */
+  color:#0239a9; /* old IE */
+  background-color: #0239a9; /* Modern Browsers */
 }
 
 
