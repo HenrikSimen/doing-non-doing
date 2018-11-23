@@ -2,25 +2,49 @@
 
 
 /* SET DEFAULT COLORS HERE */
-body {
-  background-color: #436865;
+body { 
+  background: rgba(6,21,71,1);
+  background: -moz-linear-gradient(top, rgba(6,21,71,1) 0%, rgba(6,21,71,1) 54%, rgba(45,21,111,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(6,21,71,1)), color-stop(54%, rgba(6,21,71,1)), color-stop(100%, rgba(45,21,111,1)));
+  background: -webkit-linear-gradient(top, rgba(6,21,71,1) 0%, rgba(6,21,71,1) 54%, rgba(45,21,111,1) 100%);
+  background: -o-linear-gradient(top, rgba(6,21,71,1) 0%, rgba(6,21,71,1) 54%, rgba(45,21,111,1) 100%);
+  background: -ms-linear-gradient(top, rgba(6,21,71,1) 0%, rgba(6,21,71,1) 54%, rgba(45,21,111,1) 100%);
+  background: linear-gradient(to bottom, rgba(6,21,71,1) 0%, rgba(6,21,71,1) 54%, rgba(45,21,111,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#061547', endColorstr='#2d156f', GradientType=0 );
 }
 
 main {
 
 }
 
-article h2, article p, article a, footer p, footer ul, footer a {
-  color: #D8E1E2;
+article h2 {
+  color: white;
+}
+
+p.intro {
+  color: white;
+}
+
+ article p,footer p, footer ul{
+  color: #8ec7ff;
+}
+
+article a {
+  color: white;
+}
+
+footer a {
+  color: white;
 }
 
 .attribution {
-  border-color: #D8E1E2;
+  background-color: #192b64;
 }
 
 hr {
-  color:#D8E1E2; /* old IE */
-  background-color: #D8E1E2; /* Modern Browsers */
+  color:#8ec7ff; /* old IE */
+  background-color: #8ec7ff; /* Modern Browsers */
 }
+
 
 
