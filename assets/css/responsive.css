@@ -18,6 +18,10 @@
     line-height: 1.75em;
   }
 
+  footer p {
+    font-size: 1em;
+    line-height: 1.4em;
+
  }
 
 /* Medium devices (tablets, 768px and up) */
@@ -31,26 +35,30 @@
   }
 
   h1 {
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: 700;
   }
   
   h2 {
-    font-size: 3.5em;
+    font-size: 3em;
     margin-bottom: 50px;
   }
   
   p {
-    font-size: 1.188em;
+    font-size: 1.1em;
     font-weight: 400;
     margin: 35px 0;
-    line-height: 1.75em;
+    line-height: 2em;
   }
   
   p.intro {
-    font-size: 1.4em;
+    font-size: 1.3em;
     line-height: 1.8em;
   }
+
+  footer p {
+    font-size: 1em;
+    line-height: 1.4em;
  }
 
 /* Extra large devices (large desktops, 1200px and up) */
@@ -60,7 +68,7 @@
     margin: 0 auto;
   }
   h1 {
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: 700;
   }
   
