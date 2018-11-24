@@ -153,3 +153,35 @@ ul li {
 }
 
 /* RESOURCES */
+
+.card {
+  padding: 16px 16px 14px;
+  border: 1px solid #0239a9;
+  background-color: #062057;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.card:hover {
+  border-color: #fbae39;
+}
+
+
+.resources a {
+  text-decoration: none;
+}
+
+.resources p {
+  margin: 0;
+  color: #e4dbe4;
+  font-size: 1em;
+}
+
+p.category {
+  font-family: 'Anonymous Pro', monospace;
+  text-transform: uppercase;
+  font-size: 0.7em;
+  color: #1195f7;
+  font-weight: 700;
+}
+

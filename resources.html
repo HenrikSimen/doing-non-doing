@@ -3,9 +3,12 @@ layout: default
 ---
 
 <h2>Resources</h2>
+<p>Welcome to the resource section, a collection of articles, vidoes/documentaries, images and just about anything I found to be useful and insigtful. This section is being constantly updated so be sure to check back in.</p>
+<p>Last update: November 2018</p>
 <ul class="resources">
   {% for resource in site.data.resources  %}
-  <li>
+  <li class="card">
+    <p class="category">{{resource.category}}</p>
     <a href="{{resource.content}}" target="_blank">{{resource.title}}</a>
     <p>{{resource.description}}</p>
   </li>
