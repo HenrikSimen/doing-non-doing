@@ -4,7 +4,7 @@ title: Lowering Your Life's Requirements
 meta: I was walking through an airport in the early morning, and wanted to get a cup of coffee to wake me up. But then I saw a long line at Peet’s Coffee, and decided I didn’t need the coffee to be awake, happy or alive.
 source: http://mnmlist.com/requirements/
 author: Leo Babauta
-category: life, minimalism
+category: [life, minimalism]
 ---
 
 
@@ -29,5 +29,5 @@ The fewer requirements we have, the less of a burden these requirements become. 
 This isn’t a prescription for how to live your life, but just something to consider.
 
 <div class="attribution">
-  <p>This post was generously donated to the public by <a href="{{page.source}}" target="_blank">{{page.author}}</a></p>
+  <p>This post was generously donated to the public by <a href="{{page.source}}" target="_blank">{{page.author}}</a><img src="{{site.baseurl}}/assets/img/external-icon.png" width="16px"/></p>
 </div> <!-- .attribution -->
