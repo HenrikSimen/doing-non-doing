@@ -164,6 +164,7 @@ ul li {
 
 .card:hover {
   border-color: #fbae39;
+  color:  red;
 }
 
 
