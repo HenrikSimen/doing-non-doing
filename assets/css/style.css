@@ -121,6 +121,10 @@ footer {
   padding: 55px 0;
 }
 
+footer ul li {
+  display: inline;
+}
+
 footer p {
   font-family: 'Anonymous Pro', monospace;
   font-size: 1.2em;
@@ -134,7 +138,8 @@ footer a {
 }
 
 ul li {
-  display: inline;
+  display: block;
+  margin-bottom: 30px;
 }
 
 
@@ -146,3 +151,5 @@ ul li {
   font-size: 1.5em;
   font-weight: 400;
 }
+
+/* RESOURCES */

@@ -1,2 +1,3 @@
 baseurl: /doing-non-doing
 exclude: ['README.md']
+permalink: pretty

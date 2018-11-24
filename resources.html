@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h2>Resources</h2>
+<ul class="resources">
+  {% for resource in site.data.resources  %}
+  <li>
+    <a href="{{resource.content}}" target="_blank">{{resource.title}}</a>
+    <p>{{resource.description}}</p>
+  </li>
+  {% endfor %}
+</ul>

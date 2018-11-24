@@ -1,0 +1,14 @@
+- title: Resource 1
+  category: Book
+  content: http://www.google.com
+  description: 'Resource secription goes here'
+
+- title: Resource 2
+  category: Website
+  content: http://www.google.com
+  description: 'Resource secription goes here'
+
+- title: Resource 3
+  category: Video
+  content: http://www.google.com
+  description: 'Resource secription goes here'

@@ -3,11 +3,9 @@ layout: default
 ---
 
 <h2>All Posts</h2>
-{% for post in site.posts %}
 <ul>
-  <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
+  {% for post in site.posts %}
+    <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
+  {% endfor %}
 </ul>
-  
-{% endfor %}
-
 
