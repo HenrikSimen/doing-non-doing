@@ -2,17 +2,10 @@
   category: Book
   content: https://tim.blog/2017/07/06/tao-of-seneca/
   description: 'Three volumes of Stoic writing starring Seneca, complete with original illustrations, profiles of modern Stoic figures, interviews, original Japanese and Chinese calligraphy to match themes, and much more.'
-  date: 2018-11-21
+  date: 2018-11-24
 
-- title: Resource 2
-  category: Website
-  content: http://www.google.com
-  description: 'Resource secription goes here'
-  date: 2018-11-19
-
-
-- title: Resource 3
-  category: Video
-  content: http://www.google.com
-  description: 'Resource secription goes here'
-  date: 2018-11-20
+- title: Don’t be a donkey
+  category: Article
+  content: https://sivers.org/donkey
+  description: 'A great article about pursuing too many directions at once and short-term thinking.'
+  date: 2018-11-24
