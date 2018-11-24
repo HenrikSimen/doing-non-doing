@@ -1,14 +1,18 @@
-- title: Resource 1
+- title: Tao of Seneca – Free PDFs
   category: Book
-  content: http://www.google.com
-  description: 'Resource secription goes here'
+  content: https://tim.blog/2017/07/06/tao-of-seneca/
+  description: 'Three volumes of Stoic writing starring Seneca, complete with original illustrations, profiles of modern Stoic figures, interviews, original Japanese and Chinese calligraphy to match themes, and much more.'
+  date: 2018-11-21
 
 - title: Resource 2
   category: Website
   content: http://www.google.com
   description: 'Resource secription goes here'
+  date: 2018-11-19
+
 
 - title: Resource 3
   category: Video
   content: http://www.google.com
   description: 'Resource secription goes here'
+  date: 2018-11-20
