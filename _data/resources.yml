@@ -9,3 +9,19 @@
   content: https://sivers.org/donkey
   description: 'A great article about pursuing too many directions at once and short-term thinking.'
   date: 2018-11-24
+
+- title: Amongst White Clouds
+  category: Documentary
+  content:  https://www.youtube.com/watch?v=FumyvVOVbaY
+  description: 'A journey exploring the practices of Chinese hermits living in the Zhongnan Mountains. Filled with bits and pieces of wisdom. A must watch'
+  date: 2018-11-24
+
+- title: Book Summaries
+  category: Website
+  content:  https://sivers.org/book
+  description: 'Detailed notes on select books from Derek Sivers. A great reference for insights and wisdom but of course nothing beats reading the book yourself.'
+  date: 2018-11-24
+
+
+
+ 
