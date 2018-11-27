@@ -118,7 +118,7 @@ hr {
 }
 
 footer {
-  padding: 55px 0;
+  padding: 25px 0;
 }
 
 footer ul li {
@@ -127,8 +127,8 @@ footer ul li {
 
 footer p {
   font-family: 'Anonymous Pro', monospace;
-  font-size: 1.2em;
-  line-height: 1.5em;
+  font-size: 1em;
+  line-height: 1.4em;
 }
 
 footer a {
@@ -175,7 +175,7 @@ ul li {
 .resources p {
   margin: 0;
   color: #e4dbe4;
-  font-size: 0.6em;
+  font-size: 0.55em;
   line-height: 1.5em;
   padding-top: 10px;
 }
@@ -183,6 +183,7 @@ ul li {
 p.title {
   color: #fbae39;
   font-size: 1em;
+  line-height: 1.2em;
 }
 p.category {
   font-family: 'Anonymous Pro', monospace;

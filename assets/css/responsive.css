@@ -24,6 +24,11 @@
 
  }
 
+  ul.resources li {
+    margin: 30px 0 0 0;
+  }
+}
+
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { }
 
@@ -63,13 +68,16 @@
 
  main ul li {
    margin: 15px 0 0 50px;
-   font-style: italic;
  }
+
+  ul.resources li {
+    margin: 30px 0 0 0;
+  }
 }
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
   main, footer {
-    width: 50%;
+    width: 55%;
     margin: 0 auto;
   }
   h1 {
@@ -97,5 +105,9 @@
   footer p {
     font-size: 1em;
     line-height: 1.4em;
+  }
+
+  ul.resources li {
+    margin: 30px 0 0 0;
   }
  }
