@@ -2,42 +2,49 @@
   category: Book
   content: https://tim.blog/2017/07/06/tao-of-seneca/
   description: 'Three volumes of Stoic writing starring Seneca, complete with original illustrations, profiles of modern Stoic figures, interviews, original Japanese and Chinese calligraphy to match themes, and much more.'
+  new: "no"
   date: 2018-11-24
 
 - title: Don’t be a donkey
   category: Article
   content: https://sivers.org/donkey
   description: 'A great article about pursuing too many directions at once and short-term thinking.'
+  new: "no"
   date: 2018-11-24
 
 - title: Amongst White Clouds
   category: Documentary
   content:  https://www.youtube.com/watch?v=FumyvVOVbaY
   description: 'A journey exploring the practices of Chinese hermits living in the Zhongnan Mountains. Filled with bits and pieces of wisdom. A must watch'
+  new: "no"
   date: 2018-11-24
 
 - title: Book Summaries
   category: Website
   content:  https://sivers.org/book
   description: 'Detailed notes on select books from Derek Sivers. A great reference for insights and wisdom but of course nothing beats reading the book yourself.'
+  new: "no"
   date: 2018-11-24
 
 - title: 'Snake Diet - Fasting Focused Lifestyle'
   category: Youtube Channel
   content:  https://www.youtube.com/channel/UC_yUeH8TsG5pxqvkOxBtsFA
   description: "Please try to look past the yelling, it's only used to shock you out of your current state,the content is gold. The Snake Diet is a fasting focused lifestyle that promotes a proactive eating routine. Unlike many of the mainstream diets that are food focused we focus on the benefits that you get in the time between feeds."
+  new: "no"
   date: 2018-11-24
 
 - title: Urine Love
   category: Article
   content:  http://www.mit.edu/people/scottm/good/urine.html
   description: "If you've never heard of Urine Therapy, this is a great place to start. I urge you to not simply dismiss this as weird or crazy, if you have disease or acne give topical urine therapy a try. Some advice: morning urine is the best."
+  new: "yes"
   date: 2018-11-27
 
 - title: "Urine Therapy - The Science Behind Pee Drinking"
   category: Documentary
   content:  https://youtu.be/LMi7NuS9Wpg
   description: "WARNING: This content is for mature audiences that know how to think outside of the box!"
+  new: "yes"
   date: 2018-11-27
 
 

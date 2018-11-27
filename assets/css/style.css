@@ -193,3 +193,10 @@ p.category {
   font-weight: 700;
 }
 
+
+span.new-banner {
+  background-color: red;
+  padding: 3px 10px;
+  color: white;
+  font-size: 0.9em;
+}

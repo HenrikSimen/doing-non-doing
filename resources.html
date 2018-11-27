@@ -3,14 +3,15 @@ layout: default
 ---
 
 <h2>Resources</h2>
-<p>Welcome to the resource section, a collection of articles, videos/documentaries, images and just about anything I found to be useful and insigtful. This section is being constantly updated so be sure to check back in.</p>
+<p>Welcome to the resource section, a collection of articles, videos/documentaries, images and just about anything I found to be useful and insigtful. This section is being constantly updated, so look out for the <span class="new-banner">new</span> icon.</p>
 <p>Last update: November 2018</p>
 <ul class="resources">
   {% assign sorted = site.data.resources | sort: 'date' | reverse %} <!-- assign variable and sort contents in variable -->
   {% for resource in sorted  %} <!-- variable is updated -->
   <a href="{{resource.content}}" target="_blank"> 
     <li class="card">
-      <p class="category">{{resource.category}}</p>
+      
+      <p class="category">{% if resource.new == "yes"%}<span class="new-banner">New</span>{% endif %} {{resource.category}}</p>
       <p class="title">{{resource.title}} <img src="{{site.baseurl}}/assets/img/external-icon.png" width="16px"/></p>
       <p>{{resource.description}}</p>
     </li>
