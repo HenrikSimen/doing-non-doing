@@ -25,7 +25,7 @@ p.intro {
   color: white;
 }
 
- article p,footer p, footer ul{
+ article p,footer p, footer ul, ul li{
   color: #e4dbe4;
 }
 

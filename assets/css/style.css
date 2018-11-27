@@ -75,7 +75,7 @@ h2 {
   margin-bottom: 50px;
 }
 
-p {
+p, ul li {
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
   font-weight: 400;

@@ -44,7 +44,7 @@
     margin-bottom: 50px;
   }
   
-  p {
+  p, ul li {
     font-size: 1.1em;
     font-weight: 400;
     margin: 35px 0;
@@ -61,6 +61,11 @@
     line-height: 1.4em;
  }
 
+ main ul li {
+   margin: 15px 0 0 50px;
+   font-style: italic;
+ }
+}
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
   main, footer {
