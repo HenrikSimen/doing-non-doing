@@ -57,7 +57,15 @@ header {
   font-size: 0.9em;
 }
 
+
+
 /* Mobile Styles */
+
+/* announcement section */
+.announcement {
+  display: none;
+}
+
 
 h1, h2 {
   font-family: 'Raleway', sans-serif;
@@ -195,8 +203,12 @@ p.category {
 
 
 span.new-banner {
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: 700;
   background-color: red;
   padding: 3px 10px;
   color: white;
   font-size: 0.9em;
 }
+
+

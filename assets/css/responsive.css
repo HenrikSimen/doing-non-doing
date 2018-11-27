@@ -27,6 +27,29 @@
   ul.resources li {
     margin: 30px 0 0 0;
   }
+
+  /* announcement section */
+  .announcement {
+    display: block;
+    border: 1px solid #0239a9;
+    background-color: #062057;
+    padding: 3px;
+    margin: 50px auto;
+    text-align: center;
+    color: white;
+  }
+  .announcement p {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 0.8em;
+    margin: 10px;
+  }
+
+  .announcement a {
+    font-family: 'Anonymous Pro', monospace;
+    text-decoration: underline;
+    font-weight: 700;
+    color: #fbae39;
+  }
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -73,6 +96,29 @@
   ul.resources li {
     margin: 30px 0 0 0;
   }
+
+  /* announcement section */
+  .announcement {
+    display: block;
+    border: 1px solid #0239a9;
+    background-color: #062057;
+    padding: 3px;
+    margin: 50px auto;
+    text-align: center;
+    color: white;
+  }
+  .announcement p {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 0.8em;
+    margin: 10px;
+  }
+
+  .announcement a {
+    font-family: 'Anonymous Pro', monospace;
+    text-decoration: underline;
+    font-weight: 700;
+    color: #fbae39;
+  }
 }
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
@@ -110,4 +156,27 @@
   ul.resources li {
     margin: 30px 0 0 0;
   }
+  /* announcement section */
+  .announcement {
+    display: block;
+    border: 1px solid #0239a9;
+    background-color: #062057;
+    padding: 3px;
+    margin: 50px auto;
+    text-align: center;
+    color: white;
+  }
+  .announcement p {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 0.8em;
+    margin: 10px;
+  }
+
+  .announcement a {
+    font-family: 'Anonymous Pro', monospace;
+    text-decoration: underline;
+    font-weight: 700;
+    color: #fbae39;
+  }
+  
  }
