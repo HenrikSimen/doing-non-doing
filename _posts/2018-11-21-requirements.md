@@ -33,8 +33,6 @@ This isn’t a prescription for how to live your life, but just something to con
 </div> <!-- .attribution -->
 
 
-
-
 <a class="all-posts" href="{{site.baseurl}}/archive">See all posts &raquo;</a>
 
-
+{% include announcement.html %} 
