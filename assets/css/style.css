@@ -65,6 +65,23 @@ header img:hover {
   transform: rotate(20deg);
 }
 
+.logo {
+  display: none;
+}
+
+.logo-mobile {
+  display: block;
+}
+
+.logo-mobile h1 {
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: 400;
+}
+
+.logo-mobile span {
+  font-weight: 700;
+}
+
 /* Mobile Styles */
 
 /* announcement section */

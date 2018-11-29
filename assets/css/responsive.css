@@ -63,6 +63,15 @@
     margin: 0 auto;
   }
 
+  .logo {
+    display: block;
+  }
+  
+  .logo-mobile {
+    display: none;
+  }
+  
+
   h1 {
     font-size: 1em;
     font-weight: 700;
@@ -127,6 +136,16 @@
     width: 55%;
     margin: 0 auto;
   }
+
+  .logo {
+    display: block;
+  }
+  
+  .logo-mobile {
+    display: none;
+  }
+
+  
   h1 {
     font-size: 1em;
     font-weight: 700;
