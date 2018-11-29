@@ -15,9 +15,6 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
   font-weight: normal;
 }
 
-
-
-
 img {
   max-width: 100%;
   height: auto;
@@ -174,9 +171,9 @@ ul li {
 
 
 /* ARCHIVE PAGE */
- main ul {
+ main ul.archive {
+   list-style: none;
   margin-bottom: 50px;
-  list-style-type: circle;
 }
  main ul a {
   font-size: 1.5em;
@@ -184,6 +181,10 @@ ul li {
 }
 
 /* RESOURCES */
+
+ul.resources {
+  list-style: none;
+}
 
 .card {
   padding: 16px 16px 14px;
