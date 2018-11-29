@@ -79,6 +79,14 @@ header img:hover {
   font-weight: 700;
 }
 
+main ul li {
+  margin: 15px 0 0 0;
+  list-style-type: circle;
+  font-size: 1em;
+  line-height: 1.7em;
+  margin-left: 35px;
+}
+
 /* Mobile Styles */
 
 /* announcement section */
