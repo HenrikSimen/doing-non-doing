@@ -15,9 +15,8 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
   font-weight: normal;
 }
 
-ol, ul {
-  list-style: none;
-}
+
+
 
 img {
   max-width: 100%;
@@ -170,7 +169,6 @@ footer a {
 }
 
 ul li {
-  display: block;
   margin-bottom: 30px;
 }
 
@@ -178,6 +176,7 @@ ul li {
 /* ARCHIVE PAGE */
  main ul {
   margin-bottom: 50px;
+  list-style-type: circle;
 }
  main ul a {
   font-size: 1.5em;
