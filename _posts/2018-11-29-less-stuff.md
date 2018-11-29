@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:title/
 title: Why Less Stuff is Better
 meta: People sometimes look at me quizzically when I proclaim that I don’t need more stuff, and that I’m constantly getting rid of what I do have.
 source: http://mnmlist.com/why-less-stuff-is-better/

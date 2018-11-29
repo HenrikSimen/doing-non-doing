@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:title/
 title: Minimalism, the Quick Method
 meta: Some of you might have, as one of your goals, the desire to become a minimalist. But the path to becoming a minimalist doesn’t have to be long and arduous. It’s fairly simple, actually.
 source: http://mnmlist.com/quick-minimalism/

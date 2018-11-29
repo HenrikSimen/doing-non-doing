@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /:title/
 title: Beat Advertising
 meta: The reason advertising works on most of us is that we feel there is something missing, that if we could only do or have X we could be happier, that we need whatever happiness they’re offering.
 source: http://mnmlist.com/beat-advertising/
