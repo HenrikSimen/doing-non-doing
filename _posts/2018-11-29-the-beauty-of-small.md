@@ -26,6 +26,7 @@ Small is often downplayed in this world of “bigger means better”. But small 
 * Smaller people are often faster, more nimble, humbler, take up fewer resources, and are very very beautiful (my wife is an example).
 * Haikus pack a lot of punch into three tiny lines.
 * Smaller posts don’t take as much time to write or read, which is good for a lazy blogger. And a busy reader.
+
 Small is beautiful. Aim for smaller when it makes sense, and enjoy the wonder that ensues.
 
 <div class="attribution">
