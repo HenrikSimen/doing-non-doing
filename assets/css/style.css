@@ -57,7 +57,13 @@ header {
   font-size: 0.9em;
 }
 
+header img {
+  transition: all 0.4s ease-in-out;
+}
 
+header img:hover {
+  transform: rotate(20deg);
+}
 
 /* Mobile Styles */
 
