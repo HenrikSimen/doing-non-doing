@@ -29,22 +29,27 @@
 - title: 'Snake Diet - Fasting Focused Lifestyle'
   category: Youtube Channel
   content:  https://www.youtube.com/channel/UC_yUeH8TsG5pxqvkOxBtsFA
-  description: "Please try to look past the yelling, it's only used to shock you out of your current state,the content is gold. The Snake Diet is a fasting focused lifestyle that promotes a proactive eating routine. Unlike many of the mainstream diets that are food focused we focus on the benefits that you get in the time between feeds."
+  description: "WARNING: This content is for mature audiences that know how to think outside of the box! Please try to look past the yelling, it's only used to shock you out of your current state,the content is gold. The Snake Diet is a fasting focused lifestyle that promotes a proactive eating routine. Unlike many of the mainstream diets that are food focused we focus on the benefits that you get in the time between feeds."
   new: "no"
   date: 2018-11-24
 
 - title: Urine Love
   category: Article
   content:  http://www.mit.edu/people/scottm/good/urine.html
-  description: "If you've never heard of Urine Therapy, this is a great place to start. I urge you to not simply dismiss this as weird or crazy, if you have disease or acne give topical urine therapy a try. Some advice: morning urine is the best."
-  new: "yes"
+  description: "WARNING: This content is for mature audiences that know how to think outside of the box! If you've never heard of Urine Therapy, this is a great place to start. I urge you to not simply dismiss this as weird or crazy, if you have disease or acne give topical urine therapy a try. Some advice: morning urine is the best."
+  new: "no"
   date: 2018-11-27
 
 - title: "Urine Therapy - The Science Behind Pee Drinking"
   category: Documentary
   content:  https://youtu.be/LMi7NuS9Wpg
   description: "WARNING: This content is for mature audiences that know how to think outside of the box!"
-  new: "yes"
+  new: "no"
   date: 2018-11-27
 
-
+- title: mnmlist
+  category: Blog
+  content:  http://mnmlist.com
+  description: "A fantastic blog from Leo Babauta, I've shared a few of his articles on this site, but there are so many more insights that don't make the cut here. Please have a look, it is sure to be a great read."
+  new: "yes"
+  date: 2018-11-29
