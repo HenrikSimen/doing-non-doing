@@ -12,7 +12,7 @@
   }
   
   p {
-    font-size: 1.188em;
+    font-size: 1em;
     font-weight: 400;
     margin: 35px 0;
     line-height: 1.75em;
@@ -23,6 +23,14 @@
     line-height: 1.4em;
 
  }
+
+  main ul li {
+    margin: 15px 0 0 0;
+    list-style-type: circle;
+    font-size: 1em;
+    line-height: 1.7em;
+    margin-left: 35px;
+  }
 
   ul.resources li {
     list-style: none;
@@ -60,7 +68,9 @@
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) { }
+@media (min-width: 768px) {
+
+ }
 
 /*  Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
@@ -88,11 +98,11 @@
     margin-bottom: 50px;
   }
   
-  p, ul li {
+  p {
     font-size: 1.1em;
     font-weight: 400;
     margin: 35px 0;
-    line-height: 2em;
+    line-height: 1.8em;
   }
   
   p.intro {
@@ -108,6 +118,9 @@
  main ul li {
    margin: 15px 0 0 0;
    list-style-type: circle;
+   font-size: 1em;
+   line-height: 1.7em;
+   margin-left: 35px;
  }
 
   ul.resources li {
@@ -169,7 +182,7 @@
     font-size: 1.1em;
     font-weight: 400;
     margin: 35px 0;
-    line-height: 2em;
+    line-height: 1.8em;
   }
   
   p.intro {
