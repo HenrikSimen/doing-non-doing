@@ -245,6 +245,24 @@ span.new-banner {
 
 /* INSIGHT SECTION */
 
+.controls button.mixitup-control-active {
+  background-color: white;
+  color: black;
+}
+
+.controls button {
+  padding: 10px;
+  margin-right: 5px;
+  border: 1px solid #0239a9;
+  background-color: #062057;
+  cursor: pointer;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.8em;
+}
+
+
+
 .new-insight-banner span {
   font-size: 1.2em;
   text-transform: uppercase;
