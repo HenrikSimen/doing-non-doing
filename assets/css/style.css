@@ -288,3 +288,7 @@ p.insight-source {
 .insight-source span {
   color: #e4dbe4;
 }
+
+.insights .card:hover {
+  border-color:  #0239a9;
+}

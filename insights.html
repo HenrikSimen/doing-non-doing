@@ -19,9 +19,9 @@ changefreq: weekly
   <button type="button" data-filter=".health">Health</button>
 </div>
 
-<ul class="container resources">
+<ul class="container resources insights">
   {% for insight in site.data.insights  %}
-  <li class="mix {{insight.category}} card ">
+  <li class="mix {{insight.category}} card">
     {% if insight.new == "yes"%}<p class="new-insight-banner"><span class="new-banner">New</span></p>{% endif %}
     <p class="insight">{{insight.quote}}</p>
     <p class="insight-source"><a href="{{insight.source}}" target="_blank"><span>Source:</span> {{insight.sourceText}}</a></p>
