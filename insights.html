@@ -11,21 +11,21 @@ changefreq: weekly
 <p>If you choose to read the source text, I would be grateful if you purchase through the source url as it is an Amazon Affiliate link and would help support this project.</p>
 
 <div class="controls">
+  <button type="button" data-filter="all">All</button>
+  <button type="button" data-sort="random">Random</button>
   <button type="button" data-filter=".spiritual">Spiritual</button>
   <button type="button" data-filter=".creativity">Creativity</button>
   <button type="button" data-filter=".productivity">Productivity</button>
   <button type="button" data-filter=".health">Health</button>
 </div>
 
-<div class="container">
-  <ul class="container resources">
-    {% for insight in site.data.insights  %}
-    <li class="mix {{insight.category}} card ">
-      {% if insight.new == "yes"%}<p class="new-insight-banner"><span class="new-banner">New</span></p>{% endif %}
-      <p class="insight">{{insight.quote}}</p>
-      <p class="insight-source"><a href="{{insight.source}}" target="_blank"><span>Source:</span> {{insight.sourceText}}</a></p>
-      <p></p>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+<ul class="container resources">
+  {% for insight in site.data.insights  %}
+  <li class="mix {{insight.category}} card ">
+    {% if insight.new == "yes"%}<p class="new-insight-banner"><span class="new-banner">New</span></p>{% endif %}
+    <p class="insight">{{insight.quote}}</p>
+    <p class="insight-source"><a href="{{insight.source}}" target="_blank"><span>Source:</span> {{insight.sourceText}}</a></p>
+    <p></p>
+  </li>
+  {% endfor %}
+</ul>
