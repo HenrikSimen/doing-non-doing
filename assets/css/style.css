@@ -83,7 +83,7 @@ main ul li {
   margin: 15px 0 0 0;
   font-size: 1em;
   line-height: 1.7em;
-  margin-left: 35px;
+  /* margin-left: 35px; */
 }
 
 /* Mobile Styles */
@@ -246,8 +246,8 @@ span.new-banner {
 /* INSIGHT SECTION */
 
 .controls button.mixitup-control-active {
-  background-color: white;
-  color: black;
+  background-color: #fbae39;
+  color: white;
 }
 
 .controls button {
@@ -259,6 +259,9 @@ span.new-banner {
   color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 0.8em;
+  display: block;
+  width: 100%;
+  margin-top: 10px;
 }
 
 

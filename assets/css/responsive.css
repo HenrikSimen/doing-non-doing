@@ -64,6 +64,11 @@
     color: #fbae39;
   }
 
+  .controls button {
+   display: inline;
+   width: auto;
+  }
+
 
 }
 
