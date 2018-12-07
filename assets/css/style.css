@@ -189,7 +189,7 @@ ul li {
 
 /* RESOURCES */
 
-ul.resources {
+ul.resources, ul.insights {
   list-style: none;
 }
 
@@ -243,3 +243,27 @@ span.new-banner {
 }
 
 
+/* INSIGHT SECTION */
+
+.new-insight-banner span {
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+
+.resources p.insight {
+  font-size: 1em;
+}
+
+p.insight-source {
+  padding-top: 30px;
+  font-size: 0.5em;
+}
+
+.insight-source a {
+
+  font-style: italic;
+}
+
+.insight-source span {
+  color: #e4dbe4;
+}
