@@ -53,3 +53,17 @@
   description: "A fantastic blog from Leo Babauta, I've shared a few of his articles on this site, but there are so many more insights that don't make the cut here. Please have a look, it is sure to be a great read."
   new: "yes"
   date: 2018-11-29
+
+- title: Conscious TV
+  category: Youtube Channel
+  content:  https://www.youtube.com/user/conscioustv
+  description: "A great resource that documents spiritual journeys through an interview format. We are a UK based TV channel covering the areas of Consciousness, Science, Non-Duality and Spirituality."
+  new: "yes"
+  date: 2018-12-12
+
+- title: Spiritual Unfoldment with John Butler
+  category: Youtube Channel
+  content:  https://www.youtube.com/channel/UCi0TFuqj6eND-mJRf8i2Tnw
+  description: "John Butler has been practising meditation for over 50 years. In these conversations with Phil Shankland in Bakewell Parish Church, he addresses various questions concerning meditation and spirituality."
+  new: "yes"
+  date: 2018-12-12
