@@ -81,3 +81,10 @@
   description: "If you want to remember everything you ever read, this is the software for you. Fair warning, it's clunky with a steep learning curve but it works. The website is filled with long-form articles that are worth your time."
   new: "yes"
   date: 2018-12-12
+
+- title: Love + Radio
+  category: Podcast
+  content:  http://loveandradio.org/
+  description: "From PRX’s Radiotopia, Nick van der Kolk’s Love and Radio features in-depth, otherworldly-produced interviews with an eclectic range of subjects, from the seedy to the sublime. You’ve never heard anything like it before. New installments are added monthly."
+  new: "yes"
+  date: 2018-12-12
