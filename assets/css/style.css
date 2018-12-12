@@ -177,13 +177,17 @@ footer .story-button {
   padding: 10px;
   display: block;
   border: 1px solid #FE3E3F;
-  background-color: red;
   color: white;
   font-size: 0.8em;
   text-transform: uppercase;
   text-decoration: none;
   width: 40%;
   text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+
+footer a.story-button:hover {
+  background-color: red;
 }
 
 ul li {
