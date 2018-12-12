@@ -217,6 +217,10 @@ main ul.archive li a {
   text-decoration: none;
 }
 
+main ul.archive li:hover {
+  border-color: white;
+}
+
 /* RESOURCES */
 
 ul.resources, ul.insights {
