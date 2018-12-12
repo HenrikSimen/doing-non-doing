@@ -181,7 +181,7 @@ footer .story-button {
   font-size: 0.8em;
   text-transform: uppercase;
   text-decoration: none;
-  width: 40%;
+  width: 100%;
   text-align: center;
   transition: all 0.2s ease-in-out;
 }
@@ -194,15 +194,27 @@ ul li {
   margin-bottom: 30px;
 }
 
-
 /* ARCHIVE PAGE */
  main ul.archive {
-   list-style: none;
+  list-style: none;
   margin-bottom: 50px;
 }
  main ul a {
   font-size: 1.5em;
   font-weight: 400;
+}
+
+main ul.archive li {
+  padding: 16px 16px 14px;
+  border: 1px solid #0239a9;
+  background-color: #062057;
+  transition: all 0.2s ease-in-out;
+  margin-left: 0;
+  margin-top: 30px;
+}
+
+main ul.archive li a {
+  text-decoration: none;
 }
 
 /* RESOURCES */
