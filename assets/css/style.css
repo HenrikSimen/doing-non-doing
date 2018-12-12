@@ -172,6 +172,20 @@ footer a {
   font-weight: 700;
 }
 
+footer .story-button {
+  margin-top: 10px;
+  padding: 10px;
+  display: block;
+  border: 1px solid #FE3E3F;
+  background-color: red;
+  color: white;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  text-decoration: none;
+  width: 40%;
+  text-align: center;
+}
+
 ul li {
   margin-bottom: 30px;
 }
