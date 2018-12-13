@@ -69,6 +69,29 @@
    width: auto;
   }
 
+  .logo {
+    display: block;
+    float: left;
+  }
+
+  .logo-mobile {
+    display: none;
+  }
+
+   /* NAVIGATION */
+
+   header nav {
+    width: auto;
+    float: right;
+  }
+
+  .dropbtn {
+    width: auto;
+  }
+
+  .dropdown-content {
+    min-width: 160px;
+  }
 
 }
 
@@ -84,9 +107,6 @@
     margin: 0 auto;
   }
 
-  .logo {
-    display: block;
-  }
   
   .logo-mobile {
     display: none;
@@ -166,6 +186,7 @@
 
   .logo {
     display: block;
+    float: left;
   }
   
   .logo-mobile {
@@ -227,5 +248,7 @@
     font-weight: 700;
     color: #fbae39;
   }
+
+ 
   
  }

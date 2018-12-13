@@ -51,6 +51,7 @@ article {
 header {
   margin-bottom: 50px;
   font-size: 0.9em;
+  width: 100%;
 }
 
 header img {
@@ -84,6 +85,66 @@ main ul li {
   font-size: 1em;
   line-height: 1.7em;
   /* margin-left: 35px; */
+}
+
+
+section {
+  clear: both;
+  padding-top: 40px;
+}
+
+/* NAVIGATION */
+
+header nav {
+  width: 100%;
+}
+
+.dropbtn {
+  padding: 16px 16px 14px;
+  border: 1px solid #0239a9;
+  background-color: #062057;
+  cursor: pointer;
+  color: white;
+  transition: all 0.1s ease-in-out;
+  font-size: 1em;
+  margin-top: 25px;
+  width: 100%;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #0239a9;
+  width: 100%;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-weight: 400;
+}
+
+.dropdown-content a:hover {
+  background-color: #062057;
+  transition: all 0.1s ease-in-out;
+
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+} 
+
+.dropdown:hover .dropbtn {
+  /* background-color: #fbae39; */
+  border-color: #fbae39;
 }
 
 /* Mobile Styles */
