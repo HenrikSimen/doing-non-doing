@@ -87,15 +87,10 @@ main ul li {
   /* margin-left: 35px; */
 }
 
-
-section {
-  clear: both;
-  padding-top: 40px;
-}
-
 /* NAVIGATION */
 
 header nav {
+  display: none;
   width: 100%;
 }
 
@@ -112,8 +107,8 @@ header nav {
 }
 
 .dropdown {
+  display: none;
   position: relative;
-  display: inline-block;
 }
 
 .dropdown-content {

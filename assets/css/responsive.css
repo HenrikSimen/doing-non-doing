@@ -78,6 +78,11 @@
     display: none;
   }
 
+  section {
+    clear: both;
+    padding-top: 40px;
+  }
+
    /* NAVIGATION */
 
    header nav {
@@ -91,6 +96,10 @@
 
   .dropdown-content {
     min-width: 160px;
+  }
+
+  .dropdown {
+    display: inline-block;
   }
 
 }
