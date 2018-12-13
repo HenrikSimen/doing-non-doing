@@ -89,6 +89,10 @@ main ul li {
 
 /* NAVIGATION */
 
+nav .dropdown-content a.hide   {
+  display: none;
+}
+
 header nav {
   display: none;
   width: 100%;
