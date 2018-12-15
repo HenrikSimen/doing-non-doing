@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="description" content="{{page.meta}}">
+
+ 
+  <!-- FB OG --> 
+  {% if page.img %}
+    <meta property="og:image" content="{{site.baseurl}}/{{ page.img }}" />
+  {% endif %}
+
+  <meta property="og:description" content="{{ page.meta }}" />
+
   <!-- Main CSS -->
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css">
 
@@ -33,6 +42,8 @@
   </script>
 
   <meta name="google-site-verification" content="SQ1k8dt3Fs6rvvyqU0egGfyvU5Jt1W1Z0JJy0kmY8RM" />
+
+  
 </head>
 <body>
   <main>

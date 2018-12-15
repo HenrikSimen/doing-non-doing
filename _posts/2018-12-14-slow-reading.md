@@ -5,6 +5,8 @@ title: Slow, Effective Reading
 meta: I think you should read slower, and focus on doing things slower. It increases your effectiveness, which is a different definition of productivity than “doing things faster”.
 source: http://mnmlist.com/slow-reading/
 author: Leo Babauta
+img: img/generic-post.jpg
+
 ---
 
 <h2>{{page.title}}</h2>
