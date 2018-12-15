@@ -5,6 +5,7 @@ title: Letting Go of Fake Needs
 meta: Our lives are filled with things we need to do. Until we look a little more closely at those needs.
 source: http://mnmlist.com/fake-needs/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

@@ -5,6 +5,7 @@ title: Addition by Subtraction
 meta: Oftentimes when we have a perceived need, we look for something to acquire in order to meet that need.
 source: http://mnmlist.com/fake-needs/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

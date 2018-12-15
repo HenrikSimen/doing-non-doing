@@ -5,6 +5,7 @@ title: The Only Thing You Can Change
 meta: You can’t change your entire life. You can only change your next action.
 source: http://mnmlist.com/small-changes/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

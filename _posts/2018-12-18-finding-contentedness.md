@@ -5,6 +5,7 @@ title: On Finding Contentedness
 meta: Almost everyone I know is looking for something better, all the time.
 source: http://mnmlist.com/finding-contentedness/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

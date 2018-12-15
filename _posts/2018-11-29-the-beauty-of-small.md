@@ -5,6 +5,7 @@ title: The Beauty of Small
 meta: Less can come in many forms. You can have fewer things, you can do fewer things, you can use fewer things, you can focus on fewer things.
 source: http://mnmlist.com/the-beauty-of-small/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

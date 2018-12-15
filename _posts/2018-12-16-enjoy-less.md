@@ -5,6 +5,7 @@ title: Learn to Love Less
 meta: Is it difficult to enjoy less? No, not really, but it takes a change in mindset, which as with many such changes takes time and adaptation.
 source: http://mnmlist.com/learn-to-love-less/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

@@ -5,6 +5,7 @@ title: Lowering Your Life's Requirements
 meta: I was walking through an airport in the early morning, and wanted to get a cup of coffee to wake me up. But then I saw a long line at Peet’s Coffee, and decided I didn’t need the coffee to be awake, happy or alive.
 source: http://mnmlist.com/requirements/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

@@ -5,6 +5,7 @@ title: The Joy of Walking
 meta: Today I set out from my house and walked. And walked.
 source: http://mnmlist.com/joy-of-walking/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

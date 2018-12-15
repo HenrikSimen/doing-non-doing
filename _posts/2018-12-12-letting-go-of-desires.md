@@ -5,6 +5,7 @@ title: Letting go of Desires
 meta: We all have desires – it’s part of the human condition.
 source: http://mnmlist.com/letting-go-of-desires/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>

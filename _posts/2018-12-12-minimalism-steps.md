@@ -5,6 +5,7 @@ title: Minimalism in Steps
 meta: You can become a minimalist overnight, by not only changing your mindset but renouncing all possessions.
 source: http://mnmlist.com/letting-go-of-desires/
 author: Leo Babauta
+img: /img/generic-post.jpg
 ---
 
 <h2>{{page.title}}</h2>
